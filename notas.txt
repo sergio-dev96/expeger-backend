@@ -1,0 +1,27 @@
+Expeger File Manager
+
+Objetivos y Funciones:
+    - Gestionar de manera efectiva expedientes y documentos, a través de procesos definidos (etapas o estados del documento),
+    estas se derivan de área en área.
+    - El DashBoard tendrá funcionalidades como NOTIFICACIONES EN TIEMPO REAL, ALERTAS y un CHAT simple entre los usuarios.
+    - Existirá un Calendario para recordatorios de diversos tipos, 
+      como expedientes que no han sido revisados después de varios días o están por vencer. (podrá conectarse con Google Calendar).
+    - Existirán diversos roles configurables, estos podrán configurar las vistas y las acciones que pueda realizar (CRUD).
+
+Modelos:
+    - Usuarios
+    - Áreas
+    - Roles
+    - Menú
+    - Permisos Menú
+    - Documentos
+    # - Organización
+    - Adjuntos Documento (archivos principales del Documento)
+    - Parámetros (ESTADOS DEL DOCUMENTO, )
+    - Expediente Documentos (Flujo o proceso del documento)
+    - Adjuntos Expedientes (archivos asociados al cada etapa del documento)
+
+
+    - Calendario
+    - Notificaciones
+    - Chat
